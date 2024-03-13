@@ -24,6 +24,7 @@ public class SpeedLoop : MonoBehaviour
     void Update()
     {
        
+        
     }
 
     IEnumerator SpeedAccelerate()
